@@ -1,0 +1,4 @@
+data/raw/HI-Small_Trans.csv
+data/processed/data.pt
+data/processed/pre_filter.pt
+data/processed/pre_transform.pt
